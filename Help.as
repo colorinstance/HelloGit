@@ -19,5 +19,6 @@ class Help
 
 	public function listen():void
 	{
+		dosomeThing();
 	}
 }
