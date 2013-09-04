@@ -7,5 +7,6 @@ class Help
 	
 	pubic function ask(msg:String)
 	{
+		trace(msg);
 	}
 }
