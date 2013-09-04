@@ -2,6 +2,7 @@ class Help
 {
 	private var _msg:String;
 	private var _functon:function;
+
 	public function Help()
 	{
 		tace("git")
@@ -9,9 +10,14 @@ class Help
 		
 	}
 	
-	pubic function ask(msg:String)
+	pubic function ask(msg:String):void
 	{
 		trace(msg);
+
 		
+	}
+
+	public function listen():void
+	{
 	}
 }
