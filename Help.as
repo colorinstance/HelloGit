@@ -20,5 +20,6 @@ class Help
 	public function listen():void
 	{
 		dosomeThing();
+		trace("listenn");
 	}
 }
