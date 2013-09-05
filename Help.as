@@ -21,5 +21,6 @@ class Help
 	{
 		dosomeThing();
 		trace("listenn");
+		donothing();
 	}
 }
