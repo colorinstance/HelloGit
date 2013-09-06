@@ -24,4 +24,10 @@ class Help
 		donothing();
 		dosomething();
 	}
+	
+	public function dispose():void
+	{
+
+	}
+
 }
